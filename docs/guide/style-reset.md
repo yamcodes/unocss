@@ -14,13 +14,13 @@ We also provide a small collection for you to grab them quickly:
 
 ::: code-group
   ```bash [pnpm]
-  pnpm add @unocss/reset
+  pnpm add -D @unocss/reset
   ```
   ```bash [yarn]
-  yarn add @unocss/reset
+  yarn add -D @unocss/reset
   ```
   ```bash [npm]
-  npm install @unocss/reset
+  npm install -D @unocss/reset
   ```
 :::
 
